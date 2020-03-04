@@ -28,7 +28,7 @@ Jag rekomenderar språket python men man kan göra projekten i vilket språk man
 
 
 ## Val av projekt
-När du har valt ett projekt så lägger du till ditt namn och projektetes i kalkylbladet i ditt teknikteam som heter "Miniprojekt python" där lägger du också in en länk till din github där du ska ladda upp ditt projekt till. När projektet är klart så ändrar du rutan klar till grön så läraren vet att projektet är färdigt och redo för genomgång. Skriv en kort readme med och berätta om projektet, dess funktioner och vad du hade struligt med och hur du löste det. Ha gärna med lite kort om hur man kan bygga vidare på det och vad du hade gjort annorlunda om du gjort projektet igen.
+När du har valt ett projekt så lägger du till ditt namn och projektetes i kalkylbladet i ditt teknikteam som heter "Programmering 1" där lägger du också in en länk till din github där du ska ladda upp ditt projekt till. När projektet är klart så ändrar du rutan klar till grön så läraren vet att projektet är färdigt och redo för genomgång. Skriv en kort readme med och berätta om projektet, dess funktioner och vad du hade struligt med och hur du löste det. Ha gärna med lite kort om hur man kan bygga vidare på det och vad du hade gjort annorlunda om du gjort projektet igen.
 
 För att veta mer i detalj vad som du blir bedömd på så slå en kik på [Bedömnningsmatrisen för programmering 1](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DPRR%26courseCode%3DPRRPRR01%26tos%3Dgy%26p%3Dp&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_PRRPRR01)
 
